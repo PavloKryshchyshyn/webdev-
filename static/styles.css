@@ -1,0 +1,24 @@
+body{
+    background-color: #0e1621;
+}
+.Photo{
+    width: min-content;
+    height: min-content;
+    margin-left: 30px;
+    margin-top: 47px;
+    border-radius: 8px;
+    margin-bottom: 7px;
+    cursor: grab;
+}
+.Text{
+    /* margin-left: 1.6%; */
+    margin: 0px 1.6% 0px 1.6%;
+}
+
+.container{
+    background-color: #182533;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 1.4%;
+    border-radius: 12px;
+}
